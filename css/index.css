@@ -1,0 +1,62 @@
+@font-face {
+  font-family: circularStdBlack;
+  src: url(../fonts/circularStd-Black.otf);
+}
+
+@font-face {
+  font-family: circularStdBold;
+  src: url(../fonts/circularStd-Bold.otf);
+}
+
+@font-face {
+  font-family: circularStdBook;
+  src: url(../fonts/circularStd-Book.otf);
+}
+
+@font-face {
+  font-family: circularStdMedium;
+  src: url(../fonts/circularStd-Medium.otf);
+}
+
+.black-font {
+  font-family: circularStdBlack;
+}
+
+.bold-font {
+  font-family: circularStdBold;
+}
+
+.book-font {
+  font-family: circularStdBook;
+}
+
+.medium-font {
+  font-family: circularStdMedium;
+}
+
+.main-title {
+  font-family: circularStdBold;
+}
+
+.currency {
+  font-size: 24px;
+  margin-right: 8px;
+}
+
+.cid-rSgEhGOyqR .list-group-item {
+  padding-top: 3rem;
+  padding-right: 2.5rem;
+  padding-left: 2.5rem;
+}
+
+.media-container li {
+  padding: 1rem;
+}
+
+.media-container ul {
+  margin-bottom: 0px;
+}
+
+.carousel-item span {
+  font-size: 24px;
+}

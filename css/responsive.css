@@ -1,0 +1,117 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .cid-rToTliLoVC img {
+    height: 2.5rem !important;
+  }
+  .header-img {
+    width: auto !important;
+    height: 5rem !important;
+  }
+  .btn {
+    font-size: 1rem !important;
+  }
+  .cid-rSgDOgK3le {
+    padding-top: 0px;
+  }
+  .cid-rSgEhGOyqR .list-group-item {
+    padding-top: 2rem;
+  }
+  .cid-rSgEhGOyqR .price-value {
+    vertical-align: text-bottom;
+  }
+  .mbr-figure img, .card-img img {
+    width: auto;
+    height: 24rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .cid-rTpkn5zteg {
+    padding-top: 0px;
+    padding-bottom: 60px;
+    background-color: #ffffff;
+  }
+  .mbr-section-text p {
+    text-align: left;
+  }
+  .mbr-figure-white {
+    padding-top: 60px !important;
+  }
+  .cid-rTpsbR8QIr .team-item .item-image img {
+      width: auto;
+      height: 6rem;
+  }
+  .static-section {
+    display: none;
+  }
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .cid-rTpkn5zteg {
+    padding-top: 0px;
+  }
+  .cid-rTpkn5zteg .mbr-figure {
+      padding-top: 60px;
+  }
+  .cid-rTpkn5zteg .mbr-text {
+    text-align: left;
+  }
+  .cid-rSgEhGOyqR .price-value {
+      font-weight: 700;
+      vertical-align: initial;
+  }
+  .beta-subscribe-btn {
+    margin-left: 0px !important;
+  }
+  .cid-rToTliLoVC img {
+    height: 2.5rem !important;
+  }
+  .main-title {
+    font-size: 52px;
+    line-height: 62px;
+  }
+  .header-img {
+    width: auto !important;
+    height: 5rem !important;
+  }
+  .mbr-figure img, .card-img img {
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .cid-rTBBt9QSW2 .mbr-testimonial .card-block {
+    padding: 2.4rem .5rem 0 .5rem;
+  }
+  .static-section {
+    display: none;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .carousel-section {
+    display: none;
+  }
+  .static-section {
+    display: block;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .media-container-about-us-carousel{
+    padding-left: 15rem;
+    padding-right: 15rem;
+  }
+  .carousel-section {
+    display: none;
+  }
+}
